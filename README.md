@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saharghoniem
-- 👀 I’m interested in ...learning
+- 👀 I’m interested in ...learning html, css,js, ux figma
 - 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on design
 - 📫 How to reach me ..saharghoniem@icloud.com.
 
 <!---
