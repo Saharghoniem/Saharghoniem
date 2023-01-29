@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saharghoniem
+- 👋 Hi, I’m @Sahar ghoniem
 - Front end developer
 - Udacity Nano degree professional front end
 - 👀 I’m interested in ... html, css,js, ux figma , react
